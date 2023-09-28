@@ -1,0 +1,16 @@
+{
+  "name": "section-13---advanced-dom-and-events",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+    "scripts": {
+        "start": "parcel serve index.html",
+        "build": "parcel build index.html --dist-dir ./dist"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
